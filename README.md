@@ -1,7 +1,7 @@
 # Data Stuctures And Algorithms
 
 
-#### **LANGUAGE** : C++,PYTHON
+### **LANGUAGE** : C++,Python
 
 ---
 
@@ -22,3 +22,13 @@
 | Merge Sort      | Recursion       | Bit Manipulation  |
 
 
+### Coding Platforms:
+- Codechef
+- LeetCode
+- HackerRank
+
+### REFERENCES
+- Course : [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/)
+- W3school
+- InterviewBit
+- PrepInsta
