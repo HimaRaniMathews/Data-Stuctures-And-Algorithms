@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ALGORITHMS.iml" filepath="$PROJECT_DIR$/ALGORITHMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DYNAMIC_PROGRAMMING/DYNAMIC_PROGRAMMING.iml" filepath="$PROJECT_DIR$/DYNAMIC_PROGRAMMING/DYNAMIC_PROGRAMMING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RECURSION/RECURSION.iml" filepath="$PROJECT_DIR$/RECURSION/RECURSION.iml" />
+    </modules>
+  </component>
+</project>
