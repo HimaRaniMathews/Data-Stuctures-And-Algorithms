@@ -1,5 +1,12 @@
 public class Fibonacci
 {
+    //Bottom-Up Approach
+    /*
+    5
+    3  2
+  2  1
+ 1   0
+    */
     public static void main(String[] args) {
         int n=9;
         int[] f=new int[n+1];
