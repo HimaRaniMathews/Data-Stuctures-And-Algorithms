@@ -4,11 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAYS.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAYS.iml" />
       <module fileurl="file://$PROJECT_DIR$/BINARY_TREE/BINARY_TREE.iml" filepath="$PROJECT_DIR$/BINARY_TREE/BINARY_TREE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BIT_MANIPULATIONS/BIT_MANIPULATIONS.iml" filepath="$PROJECT_DIR$/BIT_MANIPULATIONS/BIT_MANIPULATIONS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Data Structures.iml" filepath="$PROJECT_DIR$/.idea/Data Structures.iml" />
       <module fileurl="file://$PROJECT_DIR$/HEAP/HEAP.iml" filepath="$PROJECT_DIR$/HEAP/HEAP.iml" />
       <module fileurl="file://$PROJECT_DIR$/LEETCODE/LEETCODE.iml" filepath="$PROJECT_DIR$/LEETCODE/LEETCODE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LINKED_LIST/LINKED_LIST.iml" filepath="$PROJECT_DIR$/LINKED_LIST/LINKED_LIST.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERNS/PATTERNS.iml" filepath="$PROJECT_DIR$/PATTERNS/PATTERNS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QUEUE/QUEUE.iml" filepath="$PROJECT_DIR$/QUEUE/QUEUE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STACK/STACK.iml" filepath="$PROJECT_DIR$/STACK/STACK.iml" />
       <module fileurl="file://$PROJECT_DIR$/STRINGS/STRINGS.iml" filepath="$PROJECT_DIR$/STRINGS/STRINGS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TRIE/TRIE.iml" filepath="$PROJECT_DIR$/TRIE/TRIE.iml" />
     </modules>
   </component>
 </project>
